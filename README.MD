@@ -163,12 +163,12 @@ A productivity-focused toolkit built for students — bringing together everyday
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JithxWorks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&icon_color=6A11CB&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithxWorks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&text_color=c9d1d9&langs_count=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JithxWorks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&icon_color=6A11CB&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithxWorks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&text_color=c9d1d9&langs_count=10&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JithxWorks&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F2&fire=6A11CB&currStreakLabel=8A63F2" />
+<img src="https://streak-stats.demolab.com/?user=JithxWorks&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F2&fire=6A11CB&currStreakLabel=8A63F2" />
 
 </div>
 
@@ -179,6 +179,8 @@ A productivity-focused toolkit built for students — bringing together everyday
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=JithxWorks&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<br/>
+<sub><i>(Trophy/stats cards run on free shared services and occasionally return "Error Fetching Resource" under high load — this is upstream, not your file. Refresh in a few minutes if a card looks broken.)</i></sub>
 
 </div>
 
