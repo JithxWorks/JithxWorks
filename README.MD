@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Jithesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20(Data%20Science)%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:6A11CB&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Jithesh%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20(Data%20Science)%20Student&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/JithxWorks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8A63F2&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;CSE+(Data+Science)+Student+%40+YIT;Open+to+Internships+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=8A63F2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=680&amp;height=90&amp;lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;CSE+(Data+Science)+Student+%40+YIT;Open+to+Internships+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=JithxWorks&label=Profile%20Views&color=8a63f2&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/JithxWorks?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=JithxWorks&amp;label=Profile%20Views&amp;color=8a63f2&amp;style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/JithxWorks?label=Followers&amp;style=for-the-badge&amp;color=2C5364&amp;logo=github" alt="Followers"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /></a>
 
 </div>
 
@@ -49,28 +49,28 @@ quote: "Build. Learn. Improve. Repeat."
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&amp;theme=dark" />
 <br/><sub>SQL</sub>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&amp;theme=dark" />
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&amp;theme=dark" />
 
 **AI / LLMs**
 <br/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&amp;logo=groq&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-8A63F2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-2C5364?style=for-the-badge"/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel,npm&amp;theme=dark" />
 
 </div>
 
@@ -204,11 +204,11 @@ A productivity-focused toolkit built for students — bringing together everyday
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="tel:+919901400394"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" /></a>
+<a href="tel:+919901400394"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
 
 </div>
 
@@ -220,7 +220,7 @@ A productivity-focused toolkit built for students — bringing together everyday
 
 If you like what I build, a ⭐ on my repos means a lot — and if you'd like to support my work further:
 
-<a href="https://www.buymeacoffee.com/JithxWorks" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+<a href="https://www.buymeacoffee.com/JithxWorks" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" /></a>
 
 </div>
 
@@ -230,6 +230,6 @@ If you like what I build, a ⭐ on my repos means a lot — and if you'd like to
 
 ### 💭 "Build. Learn. Improve. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,50:2C5364,100:0F2027&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
