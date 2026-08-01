@@ -178,9 +178,9 @@ A productivity-focused toolkit built for students — bringing together everyday
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JithxWorks&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=JithxWorks&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 <br/>
-<sub><i>(Trophy/stats cards run on free shared services and occasionally return "Error Fetching Resource" under high load — this is upstream, not your file. Refresh in a few minutes if a card looks broken.)</i></sub>
+<sub><i>(Trophy/stats cards run on free shared services and can occasionally return "Error Fetching Resource" under high load — this is upstream, not your file. This section uses a community mirror server to reduce that risk.)</i></sub>
 
 </div>
 
