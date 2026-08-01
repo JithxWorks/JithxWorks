@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:6A11CB&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Jithesh%20👋&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20(Data%20Science)%20Student&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/JithxWorks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=8A63F2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=680&amp;height=90&amp;lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;CSE+(Data+Science)+Student+%40+YIT;Open+to+Internships+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=900&amp;color=8A63F2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=680&amp;height=200&amp;lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;CSE+(Data+Science)+Student+%40+YIT;Open+to+Internships+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
