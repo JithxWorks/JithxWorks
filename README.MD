@@ -1,341 +1,233 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- HEADER BANNER WITH ANIMATED WAVE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Jithesh%20Suvarna&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED TYPING EFFECT -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AE+Building+AI-Powered+Applications;%F0%9F%9A%80+Full+Stack+Developer+%7C+CSE+(Data+Science);%F0%9F%A4%96+AI+%E2%80%A2+GenAI+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents;%F0%9F%92%A1+Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JithxWorks&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/JithxWorks?tab=followers">
-    <img src="https://img.shields.io/github/followers/JithxWorks?label=Followers&style=for-the-badge&color=6366f1&labelColor=1e1b4b" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JithxWorks?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-🔗-06b6d4?style=for-the-badge&labelColor=1e1b4b" alt="Repos" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
-</h2>
-
-<p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Coding GIF"/>
-</p>
-
-```yaml
-name: Jithesh Suvarna
-pronouns: He/Him
-location: India 🇮🇳
-
-education:
-  degree: B.E. in Computer Science & Engineering (Data Science)
-  university: Yenepoya Institute of Technology (VTU)
-  graduation: 2029
-
-roles:
-  - AI Developer
-  - Full Stack Developer
-  - Open Source Contributor
-  - CSE (Data Science) Student
-
-currently_building:
-  - AI-Powered Applications
-  - Full Stack Web Apps
-  - Open Source Projects
-  - React + TypeScript Applications
-
-currently_learning:
-  - Machine Learning & Deep Learning
-  - LLM Applications & LangChain
-  - AI Agents & Automation
-  - Cloud Deployment & DevOps
-
-open_for:
-  - Open Source Collaboration
-  - AI Projects & Hackathons
-  - Internship Opportunities
-  - Freelance Projects
-
-fun_facts:
-  - I love solving coding challenges
-  - I build AI-powered apps for fun
-  - I learn by building real projects
-  - Always exploring new dev tools
-
-motto: "Build. Learn. Improve. Repeat."
-<br clear="both"/> <br/><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- CONNECT WITH ME --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center">🤝 Connect With Me</h2><p align="center"> <a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://jithxworks-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/> </a> &nbsp; <a href="mailto:jithx0901@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> &nbsp; <a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> &nbsp; <a href="https://github.com/JithxWorks" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p><br/><!-- ═══════════════════════════════════════════════════════════════════════ --><!-- TECH STACK --><!-- ═══════════════════════════════════════════════════════════════════════ --><h2 align="center">🛠️ Tech Stack & Tools</h2><br/><h3 align="center">🔤 Languages</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css&theme=dark&perline=7" alt="Languages"/> </a> </p><h3 align="center">🎨 Frontend</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark&perline=4" alt="Frontend"/> </a> </p><h3 align="center">⚙️ Backend</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" alt="Backend"/> </a> </p><h3 align="center">🗄️ Database & Cloud</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark&perline=4" alt="Database"/> </a> </p><h3 align="center">🤖 AI & ML</h3> <p align="center"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> &nbsp; <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/> &nbsp; <img src="https://img.shields.io/badge/Prompt%20Engineering-06b6d4?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/> &nbsp; <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/> &nbsp; <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/> &nbsp; <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> </p><h3 align="center">🧰 Tools & Platforms</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel,npm,docker&theme=dark&perline=9" alt="Tools"/> </a> </p><br/> ```
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY LEARNING -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/><br/>
-      <sub><b>Machine Learning</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/><br/>
-      <sub><b>Deep Learning</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/LLM%20Apps-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/><br/>
-      <sub><b>LLM Applications</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/><br/>
-      <sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Agents"/><br/>
-      <sub><b>AI Agents</b></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
-      <sub><b>Docker & Cloud</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Mika AI</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/mika-ai" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>AI-powered intelligent assistant application</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 Krishi AI</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/krishi-ai" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>AI-powered agriculture solution for farmers</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎙️ AI Voice Assistant</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/ai-voice-assistant" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>Voice-enabled AI assistant application</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Student Toolkit</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/student-toolkit" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>All-in-one productivity toolkit for students</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ RoadMap Hub</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/roadmap-hub" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>Interactive developer learning roadmaps platform</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💾 PromptSaver</h3>
-      <p align="center">
-        <a href="https://github.com/JithxWorks/promptsaver" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>Save & organize your best AI prompts</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🌐 Modern Portfolio Website</h3>
-      <p align="center">
-        <a href="https://jithxworks-portfolio.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/JithxWorks/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center"><em>Personal developer portfolio built with modern technologies</em></p>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Jithesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20(Data%20Science)%20Student&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/JithxWorks">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8A63F2&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;CSE+(Data+Science)+Student+%40+YIT;Open+to+Internships+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=JithxWorks&label=Profile%20Views&color=8a63f2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/JithxWorks?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🧑‍💻 About Me
 
-<h2 align="center">📊 GitHub Analytics</h2>
+```yaml
+name: "Jithesh Suvarna"
+role: "AI Developer • Full Stack Developer • CSE (Data Science) Student"
+location: "India 🇮🇳"
+education: "B.E. — Computer Science & Engineering (Data Science), Yenepoya Institute of Technology (VTU)"
+graduation: "2029"
+pronouns: "He/Him"
+focus_areas: ["Artificial Intelligence", "Generative AI", "AI Agents", "Full Stack Development", "React Ecosystem", "Python", "Open Source"]
+quote: "Build. Learn. Improve. Repeat."
+```
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/JithxWorks">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JithxWorks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/JithxWorks">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithxWorks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/JithxWorks">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JithxWorks&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6366F1" alt="GitHub Streak"/>
-  </a>
-</p>
+- 🎓 Passionate CS (Data Science) student building real-world **AI applications**, **modern web apps**, and **developer tools**
+- 🧠 Goal: becoming an **AI Engineer** — learning by shipping projects, not just tutorials
+- 🌱 Currently deep-diving into **Machine Learning, Deep Learning, LLM Applications & LangChain**
+- 🤝 Open to **Open Source collaboration**, **internships**, **freelance work**, and **hackathons**
+- ⚡ Fun fact: I enjoy solving coding challenges and learning new tech by *building* with it, not just reading about it
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🛠️ Tech Stack
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/JithxWorks">
-    <img src="https://github-profile-trophy.vercel.app/?username=JithxWorks&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-  </a>
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark" />
+<br/><sub>SQL</sub>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&theme=dark" />
+
+**AI / LLMs**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A63F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2C5364?style=for-the-badge"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel,npm&theme=dark" />
+
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 📚 Currently Learning
 
-<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/JithxWorks">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithxWorks&bg_color=0D1117&color=8B5CF6&line=6366F1&point=06B6D4&area_color=8B5CF6&area=true&hide_border=true&custom_title=Jithesh's%20Contribution%20Graph" alt="Activity Graph"/>
-  </a>
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2C5364?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2C5364?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6A11CB?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A11CB?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-0F2027?style=for-the-badge)
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake-dark.svg" />
-  </picture>
-</p>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- QUOTE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🚀 Featured Projects
 
-<h2 align="center">💬 Motto</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build.%20Learn.%20Improve.%20Repeat.&author=Jithesh%20Suvarna" alt="Quote"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Krishi AI
+IoT + AI agriculture system built for real Karnataka rice-farming problems. ESP32 + SIM800L GSM firmware, OpenWeatherMap integration, and Telegram bot alerts for farmers — submitted for IPBL 2026 at YIT.
+
+`ESP32` `IoT` `OpenWeatherMap API` `Telegram Bot` `EasyEDA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Mika AI
+A personal local AI voice assistant running on **Ollama + Gemma**, with natural Indic text-to-speech via Parler-TTS ("Leela" voice) and live web search through DuckDuckGo/Brave.
+
+`Ollama` `Gemma` `Indic Parler-TTS` `Voice AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 PromptVault
+A cross-platform AI prompt management app for saving, versioning, and sharing prompts on the go. Built with React Native, Expo, Firebase, and TypeScript, with shareable links and light/dark themes.
+
+`React Native` `Expo` `Firebase` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Modern Portfolio Website
+A fully animated, self-contained personal portfolio with a luxurious red-and-black theme, cursor-tracking avatar, video hero intro, smooth scroll animations, and a built-in Smart Resume Generator.
+
+`HTML/CSS/JS` `Animation` `PDF Generation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ RoadMap Hub
+A student-focused roadmap and progress-tracking platform to help learners plan structured paths through tech skills and subjects.
+
+`HTML/CSS/JS` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Student Toolkit
+A productivity-focused toolkit built for students — bringing together everyday academic utilities into one clean application.
+
+`Full Stack` `Productivity Tools`
+
+</td>
+</tr>
+</table>
+
+<sub>📌 More on my <a href="https://jithxworks-portfolio.netlify.app/">portfolio site</a> &nbsp;|&nbsp; ⭐ Star the repos you like!</sub>
+
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SUPPORT -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 📊 GitHub Analytics
 
-<h2 align="center">☕ Support My Work</h2>
+<div align="center">
 
-<p align="center">
-  <em>If you like what I build, consider dropping a ⭐ on my repositories — it genuinely motivates me!</em>
-</p>
-
-<p align="center">
-  <a href="mailto:jithx0901@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-jithx0901@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JithxWorks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&icon_color=6A11CB&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithxWorks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63F2&text_color=c9d1d9&langs_count=10" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER WAVE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JithxWorks&theme=tokyonight&hide_border=true&background=0D1117&ring=8A63F2&fire=6A11CB&currStreakLabel=8A63F2" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer" width="100%" alt="Footer Wave"/>
-</p>
+</div>
 
-<p align="center">
-  <b>Made with ❤️ by <a href="https://github.com/JithxWorks">Jithesh Suvarna</a></b>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-8B5CF6?style=flat-square" alt="Thanks"/>
-</p>
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JithxWorks&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JithxWorks/JithxWorks/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jithesh-suvarna-412002395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jithx0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://jithxworks-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/FbeeothF5R/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="tel:+919901400394"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+## 💬 Support
+
+<div align="center">
+
+If you like what I build, a ⭐ on my repos means a lot — and if you'd like to support my work further:
+
+<a href="https://www.buymeacoffee.com/JithxWorks" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 "Build. Learn. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
